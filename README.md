@@ -2,6 +2,6 @@
 ## Markdown API for copying things to clipboard
 
 ### Simple usage:
-`<a href="https://piciakk.github.io/copy.html?q=example+text" target="_blank">Copy to clipboard</a>`
+`[Copy to clipboard](https://piciakk.github.io/copy.html?q=example+text)`
 ### Preview:
-<a href="https://piciakk.github.io/copy.html?q=example+text" target="_blank">Copy to clipboard</a>
+[Copy to clipboard](https://piciakk.github.io/copy.html?q=example+text)
