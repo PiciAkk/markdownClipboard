@@ -1,7 +1,8 @@
 # Markdown Clipboard
 ## Markdown API for copying things to clipboard
 
-### Simple usage:
+### How to use:
+Simple usage:
 `[Copy to clipboard](https://piciakk.github.io/copy.html?q=example+text)`
-### Preview:
+Preview:
 [Copy to clipboard](https://piciakk.github.io/copy.html?q=example+text)
