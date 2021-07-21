@@ -5,6 +5,7 @@
 Simple usage:
 
 `[Copy to clipboard](https://piciakk.github.io/copy.html?q=example+text)`
+(Hint: edit the query :D)
 
 Preview:
 
